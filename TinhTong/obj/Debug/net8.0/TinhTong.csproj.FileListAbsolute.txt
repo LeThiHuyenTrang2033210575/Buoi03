@@ -1,0 +1,14 @@
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\bin\Debug\net8.0\TinhTong.exe
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\bin\Debug\net8.0\TinhTong.deps.json
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\bin\Debug\net8.0\TinhTong.runtimeconfig.json
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\bin\Debug\net8.0\TinhTong.dll
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\bin\Debug\net8.0\TinhTong.pdb
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.GeneratedMSBuildEditorConfig.editorconfig
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.AssemblyInfoInputs.cache
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.AssemblyInfo.cs
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.csproj.CoreCompileInputs.cache
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.dll
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\refint\TinhTong.dll
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.pdb
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\TinhTong.genruntimeconfig.cache
+F:\PTTKTT_Buoi03\PTTKTT_Buoi03\obj\Debug\net8.0\ref\TinhTong.dll

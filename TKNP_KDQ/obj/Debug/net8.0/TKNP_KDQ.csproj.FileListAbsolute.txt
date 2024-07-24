@@ -1,0 +1,14 @@
+F:\PTTKTT_Buoi03\TKNP_KDQ\bin\Debug\net8.0\TKNP_KDQ.exe
+F:\PTTKTT_Buoi03\TKNP_KDQ\bin\Debug\net8.0\TKNP_KDQ.deps.json
+F:\PTTKTT_Buoi03\TKNP_KDQ\bin\Debug\net8.0\TKNP_KDQ.runtimeconfig.json
+F:\PTTKTT_Buoi03\TKNP_KDQ\bin\Debug\net8.0\TKNP_KDQ.dll
+F:\PTTKTT_Buoi03\TKNP_KDQ\bin\Debug\net8.0\TKNP_KDQ.pdb
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.AssemblyInfoInputs.cache
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.AssemblyInfo.cs
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.csproj.CoreCompileInputs.cache
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.dll
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\refint\TKNP_KDQ.dll
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.pdb
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\TKNP_KDQ.genruntimeconfig.cache
+F:\PTTKTT_Buoi03\TKNP_KDQ\obj\Debug\net8.0\ref\TKNP_KDQ.dll
